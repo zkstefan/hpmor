@@ -9,4 +9,4 @@ jobs:
           run: |
             apk add git
             git checkout master
-            latexmk
+            latexmk hpmor
